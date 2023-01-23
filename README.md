@@ -252,3 +252,14 @@ Source: <a
 href="https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection#">UCI
 Machine Learning Repository: YouTube Spam Collection Data Set</a>
 </p>
+
+<p>
+At last the confusion matrix has been used to define the performance of a classification algorithm. Each row of the matrix represents the instances in a predicted class, while each column represents the instances in an actual class (or vice versa). It also reflects a high matrix score <strong>mostly above 90</strong> and we can conclude that the <strong>model is optimal for this problem.</strong>
+</p>
+
+<p>
+<em>Special thanks to UCI Machine Learning Repository for the dataset and other resources</em>
+</p>
+<p>
+<em> © Saadh Jawwadh</em>
+</p>
