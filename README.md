@@ -1,14 +1,5 @@
-<p>
-<strong>IIT ID:</strong> 2019175
-</p>
-<p>
-<strong>Uow ID:</strong> W1790792
-</p>
-<p>
-<strong>Name:</strong> Saadh Jawwadh
-</p>
 
-<h1 id="part-a-–-application-area-review">Part A – Application area review</h1>
+<h1 id="part-a-–-application-area-review">Application area review</h1>
 <p>
 Prior to the implementation I did a proper Literature review to acknowledge the
 state of art techniques for detecting YouTube spam comments and ended up with
